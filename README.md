@@ -1,2 +1,2 @@
 # Python-experimental
-Some small experiments with Python
+Some small Experiments with Python
